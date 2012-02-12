@@ -1,1 +1,5 @@
 This is a 2nd test file for SmartGit
+
+Updated:  02/11/2012:16:37
+
+Updated:  02/11/2012:16:39
